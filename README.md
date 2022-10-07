@@ -69,7 +69,7 @@ Imagine Dragons, Lynn Anderson, Kari Bremnes, George Ezra, Harry Styles...
 &nbsp;
 &nbsp;
 ## ✉️ Get in touch
-You can reach me on [LinkedIn](https://www.linkedin.com/in/monica-munkvold-nikolaisen/)  
+You can reach me on <a href="https://www.linkedin.com/in/monica-munkvold-nikolaisen/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 &nbsp;
 &nbsp;
