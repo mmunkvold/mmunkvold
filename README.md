@@ -69,7 +69,13 @@ Imagine Dragons, Lynn Anderson, Kari Bremnes, George Ezra, Harry Styles...
 &nbsp;
 &nbsp;
 ## ✉️ Get in touch
-You can reach me on [LinkedIn](https://www.linkedin.com/in/monica-munkvold-nikolaisen/)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/monica-munkvold-nikolaisen/)  
+
+&nbsp;
+&nbsp;
+<hr style="border:2px solid gray">  
+
+*badges from: [Ileriayo](https://github.com/Ileriayo/markdown-badges)*
 
 <!---
 mmunkvold/mmunkvold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
