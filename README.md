@@ -11,7 +11,7 @@
 
 &nbsp;
 &nbsp;
-## 🔧 Tools and Languages  
+## :hammer_and_wrench: Tools and Languages  
 
 *Some I love, some still trying out...*  
 
@@ -74,6 +74,8 @@ You can reach me on <a href="https://www.linkedin.com/in/monica-munkvold-nikolai
 &nbsp;
 &nbsp;
 <hr style="border:2px solid gray">  
+
+<img src="https://komarev.com/ghpvc/?username=mmunkvold&style=flat-square&color=blue" alt="visitor stats"/>
 
 *badges from: [Ileriayo](https://github.com/Ileriayo/markdown-badges)*
 
