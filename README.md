@@ -1,18 +1,19 @@
 <h1 align="center"> Hi there!</h1>
-<p align="center"> I’m Monica, a Front End Developer / Web Designer from Norway</p>
+<p align="center"><strong> I’m Monica, a Front End Developer / Web Designer from Norway</strong></p>
 <p align="center">I thought I was too old to start coding. Apparently I'm not.</p>  
   
+&nbsp;
 &nbsp;
 
 ## 💻 Currently working on a project using  
 
-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) &nbsp; and &nbsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
 
-
+&nbsp;
+&nbsp;
 ## 🔧 Tools and Languages  
 
-*Some I love, some still trying out.*  
+*Some I love, some still trying out...*  
 
 My favourite IDE is &nbsp;&nbsp;![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) 
 
@@ -41,30 +42,34 @@ For **creating API's** and **Hosting**: &nbsp;&nbsp;![Json](https://img.shields.
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
 For **designing:**&nbsp;&nbsp;![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)  
 
+&nbsp;
+&nbsp;
 ## 💪 My favourite learning sites/tools:
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=flat&logo=scrimba&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=flat&logo=mdnwebdocs&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)  
 
-
+&nbsp;
+&nbsp;
 ## 🎵 While I code I listen to:
 Imagine Dragons, Lynn Anderson, Kari Bremnes, George Ezra, Harry Styles...  
 
-
+&nbsp;
+&nbsp;
 ## 😎 When I'm not coding I am:
 - Watching The Walking Dead, Stranger Things, Star Wars, Marvel Universe...
 - Eating
 - Hugging trees
 - Sleeping
 - Spending time with my family   
-*(not sure if this list is prioritized or not...)*  
+*(not necessarily in that order...)*  
 
-
+&nbsp;
+&nbsp;
 ## ✉️ Get in touch
 You can reach me on [LinkedIn](https://www.linkedin.com/in/monica-munkvold-nikolaisen/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
 
 <!---
 mmunkvold/mmunkvold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
